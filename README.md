@@ -1,6 +1,6 @@
-## Hi there 👋
+## Olá! sou o Ryan Emerick 👋
 
-### Olá! eu sou o Ryan Emerick
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-emerick-borsanyi-64a25b304)
 [![Microsft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://ryan_emerick@outolook.com)
